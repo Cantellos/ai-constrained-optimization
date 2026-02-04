@@ -1,4 +1,4 @@
-# Artificial Intelligence & Constrained Optimization (IAOV)
+# Artificial Intelligence & Constrained Optimization
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
