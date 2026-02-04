@@ -5,7 +5,7 @@
 
 This repository contains a collection of exercises and projects developed for the **Artificial Intelligence and Constrained Optimization** course. The goal is to provide clean, documented, and efficient implementations of core AI search and optimization algorithms.
 
-## 🚀 Key Features
+## Key Features
 
 The repository is organized into thematic modules:
 
@@ -14,13 +14,13 @@ The repository is organized into thematic modules:
 * **Combinatorial Optimization:** Local search heuristics, Hill Climbing, and [add other algorithms like Genetic Algorithms if applicable].
 * **Exam Lab Scenarios:** Solutions to past exam papers and complex problem-solving scenarios.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Language:** Python 3.x
 * **Libraries:** `numpy`, `scipy`, `python-constraint` (modify according to your tools)
 * **Environment:** Jupyter Notebooks / CLI Scripts
 
-## 📥 Installation & Usage
+## Installation & Usage
 
 1.  **Clone the repository:**
     ```bash
@@ -37,7 +37,7 @@ The repository is organized into thematic modules:
     python src/search_example.py
     ```
 
-## 📝 Project Structure
+## Project Structure
 ```text
 ├── src/                # Core algorithm implementations
 ├── notebooks/          # Interactive walkthroughs and tutorials
